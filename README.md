@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Pranay Vaidya</h1>
-<h3 align="center">A passionate frontend developer and a hardcode Competitive Programmer from India</h3>
+<h3 align="center">A passionate full stack web developer and a hardcode Competitive Programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
 
 
-- 🌱 I’m currently learning *BlockChain*
+- 🌱 I’m currently learning *Data Science*
 
-- 💬 Ask me about *ReactJS, NodeJS, ExpressJS, Competitive Coding,...*
+- 💬 Ask me about *ReactJS, NodeJS, ExpressJS, MongoDB, DSA, Competitive Coding,...*
 
 - 📫 How to reach me *Pranaysvaidya07@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pranay-vaidya-5b9b8621b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranay-vaidya-5b9b8621b" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pranayvaidya07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pranayvaidya07" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/D-coder07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="D-coder07" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/pranayvaidya07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pranayvaidya07" height="30" width="40" /></a> -->
+<!-- <a href="https://codeforces.com/profile/D-coder07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="D-coder07" height="30" width="40" /></a> -->
 <a href="https://www.leetcode.com/Pranay_vaidya07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourabhchandel59" height="30" width="40" /></a>
 </p>
 
